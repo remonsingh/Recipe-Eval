@@ -1,0 +1,76 @@
+{
+  "dish": [
+    {
+      "img": "https://foodish-api.herokuapp.com/images/burger/burger25.jpg",
+      "title": "pizza",
+      "ingredients": "Bread ",
+      "time": "10 min ",
+      "inst": "demo inst-1",
+      "id": 7
+    },
+    {
+      "img": "https://foodish-api.herokuapp.com/images/samosa/samosa10.jpg",
+      "title": "burger",
+      "ingredients": "Potato,Tomato,noddles",
+      "time": "14 min ",
+      "inst": "demo inst-2",
+      "id": 8
+    },
+    {
+      "img": "https://foodish-api.herokuapp.com/images/biryani/biryani42.jpg",
+      "title": "Noddles",
+      "ingredients": "uncooked noodles",
+      "time": "20 min ",
+      "inst": "demo inst-3",
+      "id": 9
+    },
+    {
+      "img": "https://foodish-api.herokuapp.com/images/dessert/dessert12.jpg",
+      "title": "Samosa",
+      "ingredients": "Potato , Green chili",
+      "time": "30 min ",
+      "inst": "demo inst-4",
+      "id": 10
+    },
+    {
+      "title": "biryani",
+      "ingredients": "rice, chicken and spices",
+      "time": "1 hr",
+      "inst": "boil rice",
+      "img": "https://foodish-api.herokuapp.com/images/rice/rice9.jpg",
+      "id": 11
+    },
+    {
+      "title": "biryani",
+      "ingredients": "rice, chicken and spices",
+      "time": "1 hr",
+      "inst": "boil rice",
+      "img": "https://foodish-api.herokuapp.com/images/rice/rice9.jpg",
+      "id": 12
+    },
+    {
+      "title": "dosa",
+      "ingredients": "rice and urad dal",
+      "time": "10 mins",
+      "inst": "cook batter",
+      "img": "https://foodish-api.herokuapp.com/images/dosa/dosa11.jpg",
+      "id": 13
+    },
+    {
+      "img": "https://foodish-api.herokuapp.com/images/idly/idly47.jpg",
+      "title": "idli",
+      "ingredients": "rice",
+      "time": "45 mins",
+      "inst": "bake idli",
+      "id": 14
+    },
+    {
+      "img": "https://foodish-api.herokuapp.com/images/butter-chicken/butter-chicken3.jpg",
+      "title": "Gobhi manchurian",
+      "ingredients": "cauliflower and spices",
+      "time": "1hr",
+      "inst": "fry cauliflower",
+      "id": 15
+    }
+  ]
+}
